@@ -1,2 +1,2 @@
 # Computer_Vision
-connected component
+Learning Computer vision concept : connected component
